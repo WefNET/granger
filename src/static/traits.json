@@ -1,0 +1,137 @@
+[{
+        "abbreviation": "ET",
+        "name": "It seems extremely tame",
+        "effect": "Aggressive animals become passive",
+        "category": "combat",
+        "rarity": 1,
+        "value": 0
+    },
+    {
+        "abbreviation": "MF",
+        "name": "It seems more friendly",
+        "effect": "Easier to tame",
+        "category": "combat",
+        "rarity": 0,
+        "value": 5
+    },
+    {
+        "abbreviation": "FF",
+        "name": "It will fight fiercely",
+        "effect": "Higher fighting skill",
+        "category": "combat",
+        "rarity": 0,
+        "value": 10
+    },
+    {
+        "abbreviation": "FN",
+        "name": "It looks more friendly than normal",
+        "effect": "Less likely to be attacked by aggressive creatures when tame",
+        "category": "combat",
+        "rarity": 0,
+        "value": 15
+    },
+    {
+        "abbreviation": "TB",
+        "name": "It is a tough bugger",
+        "effect": "Withstands more damage",
+        "category": "combat",
+        "rarity": 0,
+        "value": 15
+    },
+    {
+        "abbreviation": "EL",
+        "name": "It seems especially loyal",
+        "effect": "Keeps loyalty to its tamer longer, loses less when taking damage ",
+        "category": "combat",
+        "rarity": 0,
+        "value": 20
+    },
+    {
+        "abbreviation": "SN",
+        "name": "It seems stronger than normal",
+        "effect": "Carry weight bonus",
+        "category": "draft",
+        "rarity": 1,
+        "value": 0
+    },
+    {
+        "abbreviation": "NI",
+        "name": "It seems more nimble than normal",
+        "effect": "Increased maximum rideable slope",
+        "category": "draft",
+        "rarity": 1,
+        "value": 0
+    },
+    {
+        "abbreviation": "EG",
+        "name": "It is easy on its gear",
+        "effect": "Equipped gear takes less damage",
+        "category": "draft",
+        "rarity": 0,
+        "value": 10
+    },
+    {
+        "abbreviation": "SB",
+        "name": "It has a strong body",
+        "effect": "Bonus to mounted weight limit",
+        "category": "draft",
+        "rarity": 0,
+        "value": 15
+    },
+    {
+        "abbreviation": "CM",
+        "name": "It can carry more than average",
+        "effect": "Major bonus to mounted weight limit",
+        "category": "draft",
+        "rarity": 0,
+        "value": 20
+    },
+    {
+        "abbreviation": "SL",
+        "name": "It has strong legs",
+        "effect": "Carry weight bonus",
+        "category": "draft",
+        "rarity": 0,
+        "value": 20
+    },
+    {
+        "abbreviation": "BC",
+        "name": "Bred in captivity",
+        "effect": "None",
+        "category": "misc",
+        "rarity": 0,
+        "value": 0
+    },
+    {
+        "abbreviation": "TW",
+        "name": "It has a chance to produce twins",
+        "effect": "Chance to birth twins",
+        "category": "misc",
+        "rarity": 1,
+        "value": 0
+    },
+    {
+        "abbreviation": "IM",
+        "name": "It seems immortal",
+        "effect": "Will never die as if cared for.",
+        "category": "misc",
+        "rarity": 1,
+        "value": 0
+    },
+    {
+        "abbreviation": "CO",
+        "name": "It has been corrupted.",
+        "effect": "Grazes on mycelium instead of grass.",
+        "category": "misc",
+        "rarity": 0,
+        "value": 0
+    },
+    {
+        "abbreviation": "SH",
+        "name": "It looks unusually strong and healthy.",
+        "effect": "Has a higher resistance to disease.",
+        "category": "misc",
+        "rarity": 0,
+        "value": 10
+    }
+]
